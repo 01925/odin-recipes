@@ -8,7 +8,7 @@ h1 {
 
 body {
   background: linear-gradient(180deg, #ea9999, #DDEFBB);
-  height: 100vh;
+  height: 150vh;
 }
 
 
@@ -28,4 +28,9 @@ body {
   border-radius: 25px;
   background-color: rgb(255, 255, 255);
   font-family: 'Playfair Display', serif;
+}
+
+.recipe {
+  padding: 5px;
+  font-size: 1.5rem;
 }
