@@ -7,7 +7,7 @@ h1 {
 }
 
 body {
-  background: linear-gradient(180deg, #ea9999, #bbefdf);
+  background: linear-gradient(180deg, #ea9999, #DDEFBB);
   height: 100vh;
 }
 
@@ -16,7 +16,7 @@ body {
   display: block;
   margin:auto;
   border-radius: 25px;
-  width: min(30%, 500px);
+  width: min(50%, 500px);
   box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.479);
 }
 
